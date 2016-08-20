@@ -1,0 +1,26 @@
+.t{
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.t>img{
+	width: 200px;
+	height: 200px;
+}
+.top{
+	position: absolute;
+	left: 50%;
+	margin-left:-300px; 
+}
+.mid{
+	position: absolute;
+	left: 50%;
+	margin-left:-300px;
+	top:200px;
+}
+.bu{
+	position: absolute;
+	left: 50%;
+	margin-left:-300px;
+	top: 400px;
+}
